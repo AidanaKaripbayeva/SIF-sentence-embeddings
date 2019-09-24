@@ -6,7 +6,7 @@ A Python implementation of the empirical part of the paper:\
 
 # Contacts
 **Authors**: Aidana Karipbayeva, Alena Sorokina\
-**Pull requests and issues**: aidana.karipbayeva@nu.edu.kz; alena.sorokina@nu.edu.kz 
+**Pull requests and issues**: aidana2@illinois.edu; alena.sorokina@nu.edu.kz 
 
 # Contents
 We critically review the smooth inverse frequency sentence embedding method of Arora, Liang, and Ma (2017), and show inconsistencies in its setup, derivation and evaluation.
